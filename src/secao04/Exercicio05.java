@@ -22,6 +22,7 @@ public class Exercicio05 {
 //	2 1 15.10
 //			VALOR A PAGAR: R$ 30.20
 	
+	@SuppressWarnings("unused")
 	public static void run() {
 		Scanner sc = new Scanner(System.in);
 		int cod1, cod2, np1, np2;

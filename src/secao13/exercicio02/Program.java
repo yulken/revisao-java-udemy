@@ -2,7 +2,6 @@ package secao13.exercicio02;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.Arrays;
 import java.util.Locale;
 
 public class Program {

@@ -1,4 +1,4 @@
-package secao13;
+package secao13.exercicio01;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -32,6 +32,7 @@ public class Program {
 		int n = sc.nextInt();
 
 		for (int i = 0; i < n; i++) {
+			System.out.println("Enter contract #" +  (i + 1) + " data:");
 			sc.nextLine();
 			System.out.println("Date (DD/MM/YYYY): ");
 			String textDate = sc.nextLine();
